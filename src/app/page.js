@@ -1,7 +1,5 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import { EntryMenuItem, Menu } from "@/components/menu";
-import { menu } from '@/data/dummyMenu.js';
 
 export default function Home() {
   return (
