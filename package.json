@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "mocha --harmonize"
+    "test": "mocha --harmonize --recursive"
   },
   "dependencies": {
     "next": "14.2.4",
